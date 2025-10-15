@@ -1,5 +1,6 @@
 package equipoweb.itson.ecommerce.dominio;
 
+import equipoweb.itson.ecommerce.enums.EstadoPago;
 import equipoweb.itson.ecommerce.enums.MetodoPago;
 import java.time.LocalDateTime;
 
